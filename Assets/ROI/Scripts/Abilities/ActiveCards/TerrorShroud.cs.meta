@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad6921de7f5612442b24f77c289dd92c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cardSkillData: {instanceID: 0}
+  - _championData: {instanceID: 0}
+  - skillsPlayer: {instanceID: 0}
+  - statusDealDamage: {instanceID: 0}
+  - skillSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
